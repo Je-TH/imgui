@@ -1,0 +1,2 @@
+project "imgui"
+  kind "StaticLib"
